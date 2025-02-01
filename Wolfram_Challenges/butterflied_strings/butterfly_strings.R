@@ -1,5 +1,5 @@
 # Description: This is my attempt at the Wolfram Challenge Butterflied Strings, 
-# which you can find at the following link.: 
+# which you can find at the following link: 
 # https://challenges.wolframcloud.com/challenge/butterflied-strings
 
 
